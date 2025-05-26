@@ -40,10 +40,10 @@ Some of the systems I’ve built as part of my learning and development journey:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bitsbuild&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsbuild&layout=compact&theme=tokyonight" alt="Top Langs" height="170" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bitsbuild&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsbuild&layout=compact&theme=tokyonight" alt="Top Languages" width="49.5%" />
+</div>
 
 ---
 
@@ -60,4 +60,3 @@ Some of the systems I’ve built as part of my learning and development journey:
 
 I'm always up for meaningful projects, especially if they involve solving real problems through solid engineering.  
 If it demands clarity, logic, and structure — I’m interested.
-
