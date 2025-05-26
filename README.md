@@ -41,8 +41,8 @@ Some of the systems I’ve built as part of my learning and development journey:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashwanthengineer&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwanthengineer&layout=compact&theme=tokyonight" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bitsbuild&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsbuild&layout=compact&theme=tokyonight" alt="Top Langs" height="170" />
 </p>
 
 ---
