@@ -1,15 +1,15 @@
 # 🛠️ Backend Developer | Jash
 
-I'm an undergraduate in Computer Engineering at NMIMS MPSTME (2022–2026), with a strong focus on backend systems.  
-My work centers around designing clean APIs, building scalable backend architectures, and managing data flow with efficiency and structure.
+I'm a backend-focused developer with a Bachelor's degree in Computer Engineering.  
+I specialize in building clean, scalable APIs and backend systems that prioritize reliability, clarity, and maintainability.
 
-While my expertise lies in backend development, I'm always open to learning new technologies and contributing to any system that demands thoughtful engineering — regardless of stack.
+While my core strength lies in backend development, I'm open to learning new technologies and contributing to any system that requires structured, thoughtful engineering.
 
 ---
 
 ## 🔧 Projects
 
-Some of the systems I’ve built as part of my learning and development journey:
+Some of the systems I’ve built as part of my engineering journey:
 
 - **Multi-Vendor E-commerce API**  
   Service allowing vendors to manage products, handle orders, and track fulfillment with role-based access control.
@@ -32,9 +32,9 @@ Some of the systems I’ve built as part of my learning and development journey:
 
 **Languages**: Python · SQL · Dart  
 **Frameworks**: Django · Django REST Framework  
-**Tools**: Docker · GitHub Actions · Kubernetes (intro level)  
-**Databases**: MySQL · Query Optimization · Schema Design  
-**Other**: REST APIs · CI/CD · Backend Architecture
+**Tools**: Docker · GitHub Actions · Kubernetes  
+**Databases**: MySQL  
+**Other**: REST APIs · CI/CD
 
 ---
 
@@ -44,15 +44,6 @@ Some of the systems I’ve built as part of my learning and development journey:
   <img src="https://github-readme-stats.vercel.app/api?username=bitsbuild&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49.5%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitsbuild&layout=compact&theme=tokyonight" alt="Top Languages" width="49.5%" />
 </div>
-
----
-
-## 🚧 Currently Exploring
-
-- Scalable API patterns and modular architectures  
-- Container orchestration basics with Kubernetes  
-- Clean deployment workflows using CI/CD pipelines  
-- Building for maintainability and long-term use
 
 ---
 
