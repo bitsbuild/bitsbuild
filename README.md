@@ -34,7 +34,7 @@ Some of the systems I’ve built as part of my engineering journey:
 **Frameworks**: Django · Django REST Framework  
 **Tools**: Docker · GitHub Actions · Kubernetes  
 **Databases**: MySQL  
-**Other**: REST APIs · CI/CD
+**Other**: REST APIs · CI/CD · Flutter
 
 ---
 
