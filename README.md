@@ -33,9 +33,9 @@
     <td width="32%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=bitsbuild&show_icons=true&count_private=true&theme=github_dark&hide_border=false&card_width=300" alt="Repos Count" width="100%" />
     </td>
-    <td width="32%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=bitsbuild&theme=github_dark" alt="Commits Per Day" width="100%" />
-    </td>
+<td width="32%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bitsbuild&theme=github_dark" alt="Repos Per Language" width="100%" />
+</td>
   </tr>
 </table>
 <!-- Row 5: Tech Stack Badges -->
